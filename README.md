@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @swsw1005
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+swsw1005/swsw1005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+discord
+https://discord.gg/5YRSkg6y
